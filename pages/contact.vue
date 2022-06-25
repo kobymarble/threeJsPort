@@ -24,7 +24,7 @@
           Contact
           <img
             class="hover:opacity-80 font-space-mono text-white"
-            src="~/assets/computer.jpeg"
+            src="~/assets/computer.jpg"
           />
         </a>
       </div>
