@@ -1,12 +1,13 @@
-import { faGithubSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+
 
 export default {
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
     title: 'my-portfolio',
     htmlAttrs: {
       lang: 'en'
     },
+    
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -61,5 +62,6 @@ fontawesome:{
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+ 
 }
