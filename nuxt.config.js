@@ -45,15 +45,10 @@ export default {
     }
   ],
 '@nuxtjs/tailwindcss',
-'@nuxtjs/fontawesome',
+
 ],
-fontawesome:{
-  component:'fa',
-  icons:{
-    solid:true,
-    brands:['faLinkedin','faGithubSquare'],
-  }
-},
+
+
   
 
   // Modules: https://go.nuxtjs.dev/config-modules
