@@ -10,19 +10,18 @@
     </div>
     <div>
       <p class="font-space-mono text-white my-7 pl-20 pr-20">
-        Hi. My name is Koby Marble. I'm from a dilapidated railroad town in
+        I'm Koby Marble. I'm from a dilapidated railroad town in
         upstate New York, and the majority of my working life has been spent as
-        a butcher. Over time I became tired of having my clothes be ruined by
-        animal viscera, so I decided to begin teaching myself javascript in
-        hopes of obtaining a new skill that would help me escape my current
-        work. After some time of self teaching I enrolled in Burlington Code
-        Academy in order to hone my coding skills. After months of learning the
-        MERN stack, and graduating the course I was once again thrusted into the
-        lonely world of self study. I have since returned to the cold and lonely
-        world of Upon re-entering this cold desolate realm I discovered I'm now
-        eager to learn new technologies and move around their complexities much
+        a butcher. Over time, ruining my clothes with
+        animal viscera got old, so I decided to begin teaching myself javascript in
+        order to learn coding skills that would help me escape my current
+        reality. I enrolled in Burlington Code
+        Academy for real work experience in the field and exposure working collaboratively on projects. After months of learning the
+        MERN stack, and graduating the course I was thrust back into the
+        lonely world of self study. Upon re-entering this cold desolate realm I realized I'm
+        eager to to compound my knowledge, learn new technologies, and move around their complexities
         more nimbly. I have recently become quite enamored with webGl and
-        ThreeJs and I am rapidly consuming as much as I can so this page can one
+        ThreeJs and I'm rapidly consuming as much as I can so this page can one
         day have a spinning 3d scan of my head.
       </p>
     </div>
