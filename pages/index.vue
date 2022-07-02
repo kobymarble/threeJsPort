@@ -8,21 +8,21 @@
     >
       <h1
         id="kobymarble"
-        class="font-space-mono text-sm uppercase tracking-wide opacity-0 py-5"
+        class="font-space-mono text-lg uppercase tracking-wide opacity-0 py-6"
         style="transform: translateY(30px)"
       >
         Hi, Im Koby!
       </h1>
       <p
         id="meathell"
-        class="font-2p text-4xl opacity-0"
+        class="font-2p text-4xl opacity-0 py-6"
         style="transform: translateY(30px)"
       >
-        Join my on my adventure <br />into full stack development
+        Join me on my adventure <br />into full stack development
       </p>
       <button
         id="viewwork"
-        class="border px-4 py-2 rounded-lg text-sm font-space-mono uppercase mt-8 hover:bg-white hover:text-gray-800 opacity-0"
+        class="border px-4 py-2 rounded-lg text-lg font-space-mono uppercase mt-8 hover:bg-white hover:text-gray-800 opacity-0"
         style="transform: translateY(30px)"
       >
         Engage Thrusters

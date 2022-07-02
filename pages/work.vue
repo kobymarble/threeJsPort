@@ -2,7 +2,7 @@
   <div class="h-screen px-6 py-12 bg-black">
     <h2
       id="title"
-      class="font-2p text-5xl opacity-0 py-3 bg-gradient-to-r text-transparent bg-clip-text from-purple-400 to-red-500"
+      class="font-2p text-5xl opacity-0 py-3 bg-gradient-to-r text-transparent bg-clip-text from-purple-600 via-red-600 to-red-900"
       style="transform: translateY(30px)"
     >
       Welcome
